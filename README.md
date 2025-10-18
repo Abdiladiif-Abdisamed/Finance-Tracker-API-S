@@ -175,10 +175,9 @@ You can deploy easily using:
 
 ## 👨‍💻 Author
 
-**Yousuf Mire Yousuf**  
-📍 Somalia | 💼 Project Manager & AI Enthusiast  
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-🔗 [GitHub](https://github.com/your-username)
+**Abdiladiif Abdisamed**  
+📍 Somalia | 💼 Full-stack Dev & AI Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdiladiif-abdisamed-00a57a31a)
 
 ---
 
